@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/TechnoPeeps/static/css/main.9df71309.css",
+    "main.js": "/TechnoPeeps/static/js/main.408e3cfc.js",
+    "static/js/787.32032a02.chunk.js": "/TechnoPeeps/static/js/787.32032a02.chunk.js",
+    "static/media/toyotamr2.woff": "/TechnoPeeps/static/media/toyotamr2.b8ab3690bb84145ad04a.woff",
+    "index.html": "/TechnoPeeps/index.html",
+    "main.9df71309.css.map": "/TechnoPeeps/static/css/main.9df71309.css.map",
+    "main.408e3cfc.js.map": "/TechnoPeeps/static/js/main.408e3cfc.js.map",
+    "787.32032a02.chunk.js.map": "/TechnoPeeps/static/js/787.32032a02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9df71309.css",
+    "static/js/main.408e3cfc.js"
+  ]
+}
