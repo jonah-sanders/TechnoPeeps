@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Toyota MR2 Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Toyota MR2 Regular'), url('toyotamr2.woff') format('woff');
+}
+
+h1 {
+	font-family: 'Toyota MR2 Regular';
+	font-weight: 200;
+	color: #ccd4db;
+}
